@@ -1,5 +1,6 @@
 * "This project is done during a Coursera course called: Object Oriented Programming in Java"
 * Understanding the object-oriented concepts
+* Used unforlingmap and GUI library 
 * Showing the map via PApplet class with assisting of unfolding map library
 * Showing earthquake data live on a map
 * Putting markers for the earthquake based on the data file was extracted from ...
